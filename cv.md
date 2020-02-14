@@ -26,3 +26,14 @@ var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
 document.getElementById("demo").innerHTML =
 person.firstName + " is " + person.age + " years old.";
 ```
+
+## Experiense:
+* CS50 video lessons
+* Basic Java courses
+
+## Education:
+* 2003-2008, Belarusian National Technical University
+
+## English level:
+* English learning from 1st grade
+* Technical English learning in university
